@@ -1,0 +1,4 @@
+name: TestPluginMC
+main: com.GChr1s.TestPluginMC.TestPluginMC
+version: 1.0
+api-version: 1.21.4
