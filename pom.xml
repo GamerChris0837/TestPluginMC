@@ -7,7 +7,7 @@
 
     <groupId>com.GChr1s</groupId>
     <artifactId>TestPluginMC</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
 
     <repositories>
         <repository>
